@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import dfs from "../practice/14_binary_tree_dfs.ts";
+import dfs from "../practice/15_binary_tree_dfs.ts";
 import { tree } from "./tree.ts";
 
 Deno.test("binary_tree_dfs", function addTest() {

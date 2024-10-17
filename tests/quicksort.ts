@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import quicksort from "../practice/9_quicksort.ts";
+import quicksort from "../practice/10_quicksort.ts";
 
 Deno.test("quicksort", function addTest() {
   const arr1 = [5, 3, 8, 1, 2];

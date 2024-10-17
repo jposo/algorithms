@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import maze_solver from "../practice/8_maze_solver.ts";
+import maze_solver from "../practice/9_maze_solver.ts";
 
 
 Deno.test("maze_solver", function addTest() {

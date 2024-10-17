@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import fibonacci from '../practice/18_fibonacci.ts';
+import fibonacci from '../practice/19_fibonacci.ts';
 
 Deno.test('fibonacci', function addTest() {
   assertEquals(fibonacci(11), 89);

@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import singly_linked_list from "../practice/5_singly_linked_list.ts";
+import singly_linked_list from "../practice/6_singly_linked_list.ts";
 
 Deno.test("singly_linked_list", function addTest() {
   const sll = new singly_linked_list();

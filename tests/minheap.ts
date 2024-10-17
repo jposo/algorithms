@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import minheap from "../practice/16_minheap.ts";
+import minheap from "../practice/17_minheap.ts";
 
 Deno.test("minheap", function addTest() {
   const heap = new minheap();

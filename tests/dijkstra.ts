@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import dijkstra from "../practice/17_dijkstra.ts";
+import dijkstra from "../practice/18_dijkstra.ts";
 import { list1 } from "./graph.ts";
 
 Deno.test("dijkstra via adj list", function () {

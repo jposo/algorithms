@@ -1,6 +1,6 @@
 import { assertEquals } from "@std/assert";
 import { tree } from "./tree.ts";
-import pre_order from '../practice/11_binary_tree_pre_order.ts'
+import pre_order from '../practice/12_binary_tree_pre_order.ts'
 
 Deno.test("binary_tree_pre_order", function addTest() {
   assertEquals(pre_order(tree), [

@@ -1,5 +1,5 @@
 import { assertEquals } from "@std/assert";
-import lis from '../practice/19_longest_increasing_subsequence.ts';
+import lis from '../practice/20_longest_increasing_subsequence.ts';
 
 Deno.test('fibonacci', function addTest() {
   assertEquals(lis([10,9,2,5,3,7,101,18]), 4);
