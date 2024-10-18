@@ -1,1 +1,1 @@
-console.log('Run tests in algorithms using $ deno test --filter "<name>"');
+console.log('Read README.md');
